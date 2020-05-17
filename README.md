@@ -1,1 +1,1 @@
-Soluções em Linguagem Python dos desafios de <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code" target="_blank">30 Days of Code</a> disponível no site [`Hacker Hank`](https://www.hackerrank.com/).
+Soluções em Linguagem Python dos desafios de <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=30-days-of-code" target="_blank">30 Days of Code</a> disponível no site <a href="https://www.hackerrank.com/" target="_blank">Hacker Hank</a>
